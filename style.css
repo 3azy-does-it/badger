@@ -1,0 +1,29 @@
+body{
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+main{
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+}
+#container{
+    background-color: white;
+    padding: 50px;
+    justify-content: center;
+    
+}
+input{
+    width: 100%;
+    padding: 10px;
+}
+button{
+    width: 100%;
+    background-color: rgb(101, 237, 101);
+    padding: 10px;
+    padding-left: 1px;
+}
+h1{
+    text-align: center;
+}
